@@ -54,7 +54,7 @@ TM32    Double Team         Safari Zone         Area 3
     
 TM42    Dream Eater         Viridian City       Man across pond
     
-TM23    Reflect             Power Plant         ?
+TM33    Reflect             Power Plant         ?
 TM25    Thunder             Power Plant         SE room
     
 TM43    Sky Attack          Victory Road        1F, NE corner
